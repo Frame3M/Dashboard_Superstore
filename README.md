@@ -1,16 +1,18 @@
 # Superstore Sales & Profitability Analysis 📊
 
+![Power BI](https://img.shields.io/badge/Power_BI-Desktop-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
 Este proyecto consiste en el desarrollo de un ecosistema analítico integral en **Power BI** diseñado para transformar datos transaccionales en insights estratégicos. El objetivo principal es monitorear el rendimiento de ventas y diagnosticar la salud financiera de una cadena de retail masiva.
 
 Dataset: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ## 🚀 Vista Previa del Proyecto
 *Página 1: Performance Overview*
-<img width="994" height="558" alt="Screenshot_1" src="https://github.com/user-attachments/assets/7892f22a-0a2f-4c7e-9719-79f6cca3e037" />
+<img width="995" height="558" alt="Screenshot_1" src="https://github.com/user-attachments/assets/d4c25db6-81b8-4afb-8ccb-1b9a855b1953" />
 
 *Página 2: Performance Analysis*
-<img width="995" height="558" alt="Screenshot_2" src="https://github.com/user-attachments/assets/159ddad9-3987-4689-a8b4-e995f5b57c05" />
-
+<img width="996" height="558" alt="Screenshot_2" src="https://github.com/user-attachments/assets/da635616-c478-4b74-a365-0ecd6c858757" />
 
 ---
 
